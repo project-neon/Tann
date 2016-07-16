@@ -1,4 +1,4 @@
-![Tann Logo](https://github.com/ivanseidel/Tann/Tann_github.png?raw=true)
+![Tann Logo](https://raw.githubusercontent.com/ivanseidel/Tann/master/Tann_github.png)
 [TANN](https://translate.google.com.br/#ht/en/tann) is a simple project developed
 during a Hackathon organized by Leroy Merlin, to save small amounts of water
 during simple tasks done daily in the Water Tap.
